@@ -1,3 +1,3 @@
 # AbsoluteZero
-Member Collaboration Repository
-This AI has no specific purpose it is a Members community project
+Owner Collaboration Repository
+This AI has no specific purpose it is a Owners community project
